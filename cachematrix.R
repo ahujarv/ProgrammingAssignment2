@@ -1,4 +1,4 @@
-## Set of these two functions that 
+## Set of two functions that 
 ## 1. create a matrix that can cache inverse of the square matrix provided
 ## 2. check in cache if the inverse of provided square matrix already exists
 ## 3. return the inverse matrix from cache if found in cache
